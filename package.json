@@ -1,0 +1,23 @@
+{
+  "name": "pagy-clone",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-vue-next": "^1.0.0",
+    "motion": "^12.38.0",
+    "vue": "^3.5.32",
+    "vue-router": "^5.0.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.4",
+    "@vitejs/plugin-vue": "^6.0.6",
+    "tailwindcss": "^4.2.4",
+    "vite": "^8.0.10"
+  }
+}
