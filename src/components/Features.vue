@@ -271,7 +271,6 @@ onMounted(() => {
     );
   });
 
-  // Stats pills pop in with spring-like stagger
   inView(
     statsRef.value,
     () => {
