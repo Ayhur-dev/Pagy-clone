@@ -231,7 +231,7 @@ const handleNavClick = (href) => {
     if (target) {
       target.scrollIntoView({ behavior: "smooth" });
     }
-  }, 300); // wait for overlay to close first
+  }, 300); 
 };
 
 // Lock body scroll when menu is open
